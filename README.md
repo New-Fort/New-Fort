@@ -8,10 +8,12 @@ I have no clue what the hell i am doing.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,codepen,flask,git,github,gmail,idea,instagram,linkedin,mysql,php,ps,pycharm,py,raspberrypi,stackoverflow,threejs,twitter,vscode,windows)](https://skillicons.dev)
 
--- START OF SOME STATS --
+-- SOME STATS --
 
-![face-hh](https://github-readme-stats.vercel.app/api?username=New-Fort&show_icons=true&theme=tokyonight&hide=["issues"])
+![new-fort](https://github-readme-stats.vercel.app/api?username=New-Fort&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=New-Fort&show_icons=true&theme=tokyonight&layout=compact)
+![new-fort](https://github-readme-stats.vercel.app/api/top-langs?username=New-Fort&show_icons=true&theme=tokyonight&layout=compact)
 
---- END OF SOME STATS ---
+<p align="center">
+    <img src="https://visitcount.itsvg.in/api?id=New-Fort&label=Profile%20Views&color=2&icon=8&pretty=false" alt="Profile Views" />
+</p>
