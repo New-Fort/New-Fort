@@ -1,4 +1,4 @@
-<h1 align="left">WASSUP</h1>
+<h1 align="left">Hi there 👋</h1>
 
 I have no clue what the hell i am doing.
 
@@ -6,7 +6,7 @@ I have no clue what the hell i am doing.
   You can contact me on discord (i'll maybe answer)
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=What+are+you+doing+here.)](https://git.io/typing-svg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,codepen,flask,git,github,gmail,idea,instagram,linkedin,mysql,php,ps,pycharm,py,raspberrypi,stackoverflow,threejs,twitter,vscode,windows)](https://skillicons.dev)
 
 -- START OF SOME STATS --
 
